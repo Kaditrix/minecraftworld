@@ -1,0 +1,39 @@
+{
+    "ItemGiverChained": [
+    ],
+    "TransportData": [
+    ],
+    "FactionData": [
+        {
+            "Points": 2000,
+            "Faction": 0
+        }
+    ],
+    "BankData": [
+    ],
+    "ItemGiversList": [
+    ],
+    "MailData": [
+    ],
+    "PlayerName": "Kaditrix",
+    "QuestData": {
+        "CompletedQuests": [
+            {
+                "Quest": 9,
+                "Date": 3995380L
+            }
+        ],
+        "ActiveQuests": [
+        ]
+    },
+    "UUID": "6a77f69c-2b21-4e0f-b524-a5e84dbc7452",
+    "PlayerCompanionId": 0,
+    "DialogData": [
+        {
+            "Dialog": 13
+        },
+        {
+            "Dialog": 14
+        }
+    ]
+}

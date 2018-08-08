@@ -1,0 +1,39 @@
+{
+    "ItemGiverChained": [
+    ],
+    "TransportData": [
+    ],
+    "FactionData": [
+        {
+            "Points": 2000,
+            "Faction": 0
+        }
+    ],
+    "BankData": [
+    ],
+    "ItemGiversList": [
+    ],
+    "MailData": [
+    ],
+    "PlayerName": "naroon10",
+    "QuestData": {
+        "CompletedQuests": [
+            {
+                "Quest": 9,
+                "Date": 3986163L
+            }
+        ],
+        "ActiveQuests": [
+        ]
+    },
+    "UUID": "467742b3-8523-4095-b69d-de218ec3e16c",
+    "PlayerCompanionId": 0,
+    "DialogData": [
+        {
+            "Dialog": 13
+        },
+        {
+            "Dialog": 14
+        }
+    ]
+}
